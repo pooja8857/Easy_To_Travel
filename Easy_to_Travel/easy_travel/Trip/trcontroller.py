@@ -1,0 +1,1 @@
+from easy_travel.Trip.models import Trip

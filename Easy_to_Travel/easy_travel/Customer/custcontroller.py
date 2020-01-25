@@ -1,0 +1,1 @@
+from easy_travel.Customer.models import Customer

@@ -1,0 +1,1 @@
+from easy_travel.Vehical.models import Vehicle

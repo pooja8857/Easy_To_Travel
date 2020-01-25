@@ -1,0 +1,1 @@
+from easy_travel.Owner.models import Owner

@@ -1,0 +1,1 @@
+from easy_travel.Notification.models import Notify
